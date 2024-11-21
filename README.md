@@ -4,5 +4,5 @@ Este archivo es tu perfil personal. Tienes que completarlo para dar información
 # jgarsol
 Sr. García para los amigos.
 
-## Quién soy:
+## Quién soy
 Estudiante en el IES José de Mora.
